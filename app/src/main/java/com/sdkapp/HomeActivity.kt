@@ -8,7 +8,7 @@ import java.lang.String
 import java.util.*
 import kotlin.collections.ArrayList
 
-class MainActivity : AppCompatActivity() {
+class HomeActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
