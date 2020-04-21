@@ -1,4 +1,4 @@
-package com.sdkapp
+package com.testlib
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

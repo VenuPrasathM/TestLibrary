@@ -1,4 +1,4 @@
-package com.sdkapp
+package com.testlib
 
 import org.junit.Test
 
