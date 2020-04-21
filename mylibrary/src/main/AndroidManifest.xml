@@ -1,2 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.e.mylibrary" />
+    package="com.e.mylibrary" >
+
+    <application>
+        <activity android:name=".LibActivity" />
+    </application>
+</manifest>
